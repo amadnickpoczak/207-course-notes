@@ -31,7 +31,7 @@ Each exercise lives in its **own Maven module** so that:
 mvn -P exercises test
 
 # a single exercise
-mvn -P exercises test -pl exercises/ex01-odd-sum
+mvn -P exercises test -pl exercises/ex14-iterator
 ```
 
 ## Available exercises
